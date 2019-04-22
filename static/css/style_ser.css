@@ -1,0 +1,30 @@
+.body-services{
+    
+    background: url('../images/bgg1.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+.ser_head{
+    
+    font-family: 'Times New Roman', Times, serif;
+    color :darkred; 
+    text-align: center;
+    font-weight: 1000;
+}
+
+/* check the below otherwise not sticky */
+body{
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+.reg_ser{
+  font-weight: 1000;
+  font-family: 'Times New Roman', Times, serif;
+  color:darkred;
+  visibility: hidden;
+  margin-top:15px;
+}
